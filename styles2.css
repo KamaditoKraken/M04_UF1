@@ -1,0 +1,107 @@
+body {
+    font-family: 'Arial';
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #3498db;
+    text-align: center;
+    padding: 20px;
+    color: #fff;
+}
+
+header h1 {
+    font-size: 36px;
+    margin: 10px 0;
+}
+
+header img {
+    border-radius: 50%;
+    margin-top: 10px;
+}
+
+nav.contacto {
+    background-color: #2ecc71;
+    padding: 20px;
+    text-align: center;
+}
+
+nav.contacto a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    margin: 0 15px;
+}
+
+nav.contacto a:hover {
+    text-decoration: underline;
+}
+
+section.objetivo {
+    background-color: #ecf0f1;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+section.objetivo h2 {
+    color: #3498db;
+}
+
+section.objetivo p {
+    font-size: 16px;
+    line-height: 1.6;
+}
+
+section.experiencia {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+section.experiencia h2 {
+    color: #3498db;
+}
+
+section.formacion {
+    padding: 20px;
+    background-color: #fff;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+section.formacion h2 {
+    color: #3498db;
+}
+
+section.habilidades {
+    background-color: #fff;
+    padding: 20px;
+    margin: 20px 0;
+    border: 1px solid #ddd;
+}
+
+section.habilidades table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+section.habilidades td {
+    padding: 10px;
+    text-align: center;
+    border: 1px solid #ddd;
+}
+
+section.habilidades th {
+    background-color: #3498db;
+    color: white;
+}
+
+hr {
+    border: 0;
+    border-top: 2px solid #3498db;
+    margin: 20px 0;
+}

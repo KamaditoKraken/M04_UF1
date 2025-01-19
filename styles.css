@@ -1,0 +1,81 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+    line-height: 1.6;
+    background-image: url("Navidad.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover; 
+    text-align: center;
+}
+
+.titulo {
+    color: #f70410; 
+    font-family: 'Georgia', serif; 
+    font-size: 36px; 
+    text-align: center; 
+    border: 3px solid #333;
+    padding: 5px;
+    border-radius: 12px;
+    background-image: url("santa.jpg");
+    background-position: center;
+    
+}
+
+.menu {
+    background-color: #ff5e5e; 
+    text-align: center; 
+    padding: 1px;
+    font-size: 20px;
+}
+
+.menu nav {
+    cursor: pointer;
+}
+
+h2 {
+    background-color: #e50914; 
+    color: #fff; 
+    padding: 5px 10px;
+    font-size: 25px;
+    border-radius: 4px;
+    display: inline-block;
+}
+
+.menu ul li {
+    display: inline;
+    margin: 10px;
+    
+}
+
+.menu ul li a {
+    color: #fff;
+    text-decoration: none;
+}
+
+figure {
+    margin: 0;
+    text-align: center;
+}
+
+footer {
+    background: #333;
+    color: #fff;
+    text-align: center;
+    padding: 30px;
+    
+}
+
+p {
+    font-family: 'Georgia';
+    font-size: 18px
+}
+
+
+
+
+
+
+
